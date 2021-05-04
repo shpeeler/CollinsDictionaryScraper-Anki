@@ -1,0 +1,2 @@
+# collinsdict
+anki addon
